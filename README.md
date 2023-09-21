@@ -9,9 +9,9 @@ Welcome to the **Instahyre Job Analytics** repository! This project revolves aro
 
 ## 🧑🏽‍💻Team Members
 
-- Amarjeet Roy (My Self)
+- Ajaykumar Jogani (My Self)
 - Priya Bhardwaj
-- Ajay Kumar
+- Amarjeet Roy 
 - Bharat Sharma
 <br>
 
