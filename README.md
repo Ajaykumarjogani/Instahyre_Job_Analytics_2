@@ -47,14 +47,17 @@ After scraping the data, our next step involved comprehensive data cleaning and 
 
 ### 💻Data Preprocessing and Model Building
 
-The data preprocessing and model building phase focus on refining the raw data and creating a clustering model for analysis.
+- The data preprocessing and model building phase focus on refining the raw data and creating a clustering model for analysis.
 
 ### 💻Data Cleaning
-In this phase, we performed comprehensive data cleaning and preprocessing using Python libraries. This step is essential for handling missing values, outliers, and ensuring data consistency. The cleaning process improved the quality of the data for subsequent analysis.
+- Conducted thorough data cleaning and preprocessing using Python libraries to enhance data quality and prepare it for further analysis.
+- Addressed issues such as missing values and outliers, ensuring data integrity and accuracy throughout the dataset.
+- Implemented measures to maintain data consistency, a crucial step in ensuring reliable and meaningful analytical results.
 
 ### 💻K-means Clustering Model
-We used Scikit-learn to build a K-means clustering model. This model categorizes companies based on their LinkedIn followers and employee count, allowing us to understand different company classes. The K-means model helped us gain insights into the job market and classify companies effectively.All these work's code can be found in **[`Processing`](Processing)** folder's  **[`Data Preprocessing and Clustering.ipynb`](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file which took **[`New Updated Csv.csv`](Processing/New%20Updated%20CSV.csv)** as input Dataframe and Generated **[`Processed_file.csv`](Processing/Processed_file.csv)** with details of Job Class and Changes made in Data Cleaning.
-
+- Utilized Scikit-learn to construct a K-means clustering model, enabling the categorization of companies based on their LinkedIn followers and employee count, facilitating a comprehensive understanding of distinct company classes.
+- The K-means model played a pivotal role in extracting valuable insights from the job market data, and efficiently classifying companies based on their relevant attributes.
+- All code related to these processes is available in the **[`Processing`](Processing)** folder's **[`Data Preprocessing and Clustering.ipynb`](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file. This notebook utilized the **[`New Updated Csv.csv`](Processing/New%20Updated%20CSV.csv)** as input dataframe, resulting in the generation of **[`Processed_file.csv`](Processing/Processed_file.csv)** which includes detailed information on Job Class and any alterations made during the data cleaning process.
 <br>
 
 ### 🕸️Website Development and Model Deployment
