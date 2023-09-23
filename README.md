@@ -70,12 +70,9 @@ After scraping the data, our next step involved comprehensive data cleaning and 
 
 
 - Developed a Python script utilizing the KMeans clustering algorithm to categorize data points into four clusters based on scaled values of Employee Counts and LinkedIn Followers. Visualized the resulting clusters and centroids using Matplotlib, distinguishing them with distinct colors for enhanced clarity.
-<p align="center">
-![chrome_NRJzPmXkiy](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/f4fda3ef-15fd-47d1-806b-fba83d7624a6)
-</p>  
-<p align="center">  
+![chrome_NRJzPmXkiy](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/f4fda3ef-15fd-47d1-806b-fba83d7624a6)   
 ![chrome_husIgEyJwp](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/99cd6d20-f8fb-46a9-800d-8a31c9072fc5)
-</p>
+
 
 ### 🕸️Website Development and Model Deployment
 
