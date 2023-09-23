@@ -62,19 +62,13 @@ After scraping the data, our next step involved comprehensive data cleaning and 
 
 - Added a Python script to calculate the Sum of Squared Error (SSE) for different cluster numbers using K-Means clustering, and visualized the results with an Elbow Plot using Matplotlib.
 <p align="center">
-![chrome_QmOiYO9FeG](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/bfb19219-9bcc-428c-8db9-50c495076d08)
-</p>  
-<p align="center">  
-![chrome_hyEYR9NLgc](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/bf040b51-38ec-4877-83f8-2fbd6ed2cf20)
-</p>
+    <img src="https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/bfb19219-9bcc-428c-8db9-50c495076d08.png">
+p>
 
 
 - Developed a Python script utilizing the KMeans clustering algorithm to categorize data points into four clusters based on scaled values of Employee Counts and LinkedIn Followers. Visualized the resulting clusters and centroids using Matplotlib, distinguishing them with distinct colors for enhanced clarity.
 ![chrome_NRJzPmXkiy](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/f4fda3ef-15fd-47d1-806b-fba83d7624a6)   
 ![chrome_husIgEyJwp](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/99cd6d20-f8fb-46a9-800d-8a31c9072fc5)
-<p align="center"> 
-  <img src="![chrome_NRJzPmXkiy](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/f4fda3ef-15fd-47d1-806b-fba83d7624a6)" style="display: inline-block; margin: 0 auto; width:800px;">
-</p>
 
 ### 🕸️Website Development and Model Deployment
 
