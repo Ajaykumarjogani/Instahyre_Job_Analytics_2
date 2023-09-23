@@ -60,6 +60,9 @@ After scraping the data, our next step involved comprehensive data cleaning and 
 - All code related to these processes is available in the **[`Processing`](Processing)** folder's **[`Data Preprocessing and Clustering.ipynb`](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file. This notebook utilized the **[`New Updated Csv.csv`](Processing/New%20Updated%20CSV.csv)** as input dataframe, resulting in the generation of **[`Processed_file.csv`](Processing/Processed_file.csv)** which includes detailed information on Job Class and any alterations made during the data cleaning process.
 <br>
 
+
+![chrome_IPzepxCrSq](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/2ac05e9b-713a-48d3-834b-f1dc3f00234f)
+
 ### 🕸️Website Development and Model Deployment
 
 - The website development and model deployment phase involved creating an interactive website to present our insights and model results to users.
