@@ -60,8 +60,13 @@ After scraping the data, our next step involved comprehensive data cleaning and 
 - All code related to these processes is available in the **[`Processing`](Processing)** folder's **[`Data Preprocessing and Clustering.ipynb`](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file. This notebook utilized the **[`New Updated Csv.csv`](Processing/New%20Updated%20CSV.csv)** as input dataframe, resulting in the generation of **[`Processed_file.csv`](Processing/Processed_file.csv)** which includes detailed information on Job Class and any alterations made during the data cleaning process.
 <br>
 
+- Added a Python script to calculate the Sum of Squared Error (SSE) for different cluster numbers using K-Means clustering, and visualized the results with an Elbow Plot using Matplotlib.
+![chrome_VzlnlEP6Zm](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/8b5d6880-2213-4d1e-8e89-197a69f7c1e4)
+![chrome_v4JihOhplL](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/96a33a71-b512-493a-8da8-3cbdf297c6e0)
 
-![chrome_IPzepxCrSq](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/2ac05e9b-713a-48d3-834b-f1dc3f00234f)
+- Developed a Python script utilizing the KMeans clustering algorithm to categorize data points into four clusters based on scaled values of Employee Counts and LinkedIn Followers. Visualized the resulting clusters and centroids using Matplotlib, distinguishing them with distinct colors for enhanced clarity.
+![chrome_YzcJZkq7Lb](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/a948b07e-d3ac-4ca2-b706-be46be10fb02)
+![chrome_P1Jrdsp7kD](https://github.com/Ajaykumarjogani/Instahyre_Job_Analytics_2/assets/122745303/56426b81-0768-4787-ae64-2920311bd39c)
 
 ### 🕸️Website Development and Model Deployment
 
