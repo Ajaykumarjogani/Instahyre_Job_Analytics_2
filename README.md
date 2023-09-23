@@ -106,8 +106,9 @@ We designed and implemented the website's frontend using HTML and CSS. The websi
 - The landing page serves as the entry point for users. It's where users can input their skills and interests to explore job market insights.
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/137817362/267758828-92c5904b-432c-4b54-9028-54b79d5c8d32.png" style="display: inline-block; margin: 0 auto; width:800px;">
+  <img src="https://user-images.githubusercontent.com/137817362/267758828-92c5904b-432c-4b54-9028-54b79d5c8d32.png" style="border-radius: 50%;">
 </p>
+
 
 **Summarized Insights Page**
 - The summarized insights page presents users with key information about the job market based on their input.
