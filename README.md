@@ -62,7 +62,7 @@ After scraping the data, our next step involved comprehensive data cleaning and 
 
 ### 🕸️Website Development and Model Deployment
 
-The website development and model deployment phase involved creating an interactive website to present our insights and model results to users.
+- The website development and model deployment phase involved creating an interactive website to present our insights and model results to users.
 
 ### 🖼️Frontend Development
 
@@ -73,8 +73,7 @@ We designed and implemented the website's frontend using HTML and CSS. The websi
 - **[`Job_details.html`](Application/templates/job_details.html)**: A page presenting detailed job posting information.
 
 ### 💾Backend Integration
-
-The Flask application **[`app.py`](Application/app.py)** handles user inputs and connects the front end to the back end. It enables users to interact with the data, explore insights, and retrieve specific job details.
+- The Flask application, named **[`app.py`](Application/app.py)** serves as the intermediary between user inputs and the backend operations. It facilitates seamless interaction with the data, allowing users to explore insights and retrieve specific job details.
 
 ## Additional Files
 
