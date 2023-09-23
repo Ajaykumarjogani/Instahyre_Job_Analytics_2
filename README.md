@@ -26,8 +26,10 @@ Welcome to the **Instahyre Job Analytics** repository! This project revolves aro
 The data extraction phase involves obtaining job posting data from Instahyre's website. This process is crucial for gathering raw data that will be later cleaned, processed, and analyzed.
 <br>
 ### 🗒️Web Scraping
-We gathered data by automating web scraping with Python's Selenium library. Our target was to scrape data like "job_id," "company_id," "location," "designation," "name," "estab_year," "employees_count," "involvement," "skills," and "hr_name" from the Instahyre website. This process was simplified by utilizing a custom Selenium script tailored for this specific task.
-
+- Employed Python's Selenium library to automate web scraping, streamlining the data collection process for enhanced efficiency.
+- Focused on extracting key job-related attributes including "job_id," "company_id," "location," "designation," and company details such as "name," "estab_year," and "employees_count."
+- Gathered additional information regarding job involvement, required skills, and HR contact details to provide a comprehensive dataset for analysis.
+- Implemented a custom Selenium script, finely tuned to extract the desired data from the Instahyre website, ensuring accuracy and specificity in the scraping process.
 **Reference Files:**
 - **[`Extraction_Code.ipynb`](Extraction/Extraction%20Code.ipynb)**: Python script for web scraping job posting data and LinkedIn information.
 ### 🗒️Data Preparation
